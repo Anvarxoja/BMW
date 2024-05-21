@@ -227,7 +227,8 @@ i:hover::after {
 }
 
 .foto {
-    width: 80%;
+    width: 60%;
+    margin-left: 100px;
 }
 
 .foto img {
